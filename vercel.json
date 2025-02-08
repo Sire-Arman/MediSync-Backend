@@ -12,7 +12,7 @@
       "dest": "/src/server.js",
       "methods": ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
       "headers": {
-        "Access-Control-Allow-Origin": "https://patientoo.vercel.app",
+        "Access-Control-Allow-Origin": "https://medi-sync-frontend.vercel.app",
         "Access-Control-Allow-Credentials": "true"
       }
     }
